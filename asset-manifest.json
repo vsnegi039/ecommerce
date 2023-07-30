@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/vipinnegi030/github.io/ecommerce/static/css/main.cc2f899a.css",
+    "main.js": "/vipinnegi030/github.io/ecommerce/static/js/main.aad381db.js",
+    "static/js/787.c41ba343.chunk.js": "/vipinnegi030/github.io/ecommerce/static/js/787.c41ba343.chunk.js",
+    "static/media/banner-img.png": "/vipinnegi030/github.io/ecommerce/static/media/banner-img.0412d66280a0273effa2.png",
+    "static/media/newsletter-bg.jpeg": "/vipinnegi030/github.io/ecommerce/static/media/newsletter-bg.b6f22313149bdbb35069.jpeg",
+    "static/media/headphone-prod-1.webp": "/vipinnegi030/github.io/ecommerce/static/media/headphone-prod-1.49810a1a193aa5efb36b.webp",
+    "index.html": "/vipinnegi030/github.io/ecommerce/index.html",
+    "main.cc2f899a.css.map": "/vipinnegi030/github.io/ecommerce/static/css/main.cc2f899a.css.map",
+    "main.aad381db.js.map": "/vipinnegi030/github.io/ecommerce/static/js/main.aad381db.js.map",
+    "787.c41ba343.chunk.js.map": "/vipinnegi030/github.io/ecommerce/static/js/787.c41ba343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc2f899a.css",
+    "static/js/main.aad381db.js"
+  ]
+}
